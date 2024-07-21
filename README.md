@@ -5,7 +5,7 @@
 * 适用于英雄联盟国际服（欧服，美服等Riot运营的区服）和测试服的简体中文汉化。
 
 ## 使用方法
-* 下载<a href="http://150.230.98.35/KoiDrive/CnLoL.exe">CnLoL.exe</a>
+* 下载<a href="http://150.230.98.35/KoiDrive/CnLoL.exe" target="_blank">CnLoL.exe</a>
 * 运行后按照提示进行操作
 
 ## 注意事项
