@@ -1,7 +1,10 @@
-<h1 align="center">欢迎使用 CnLoL 英雄联盟汉化工具</h1>
+<h1 align="center">欢迎使用 CnLoL 英雄联盟汉化工具
+<br><br>
 
+[![Downloads](https://img.shields.io/github/downloads/Koiii367/LOL/total)](https://github.com/Koiii367/LOL/releases/latest)
+
+</h1>
 <h2 align="center">✨如果工具对你有帮助，请点亮Star予以支持✨</h2>
-
 
 ## 丨工具介绍
 * 解决更新过后的Vanguard反作弊引起的，不能使用快捷方式更改语言的的问题。
@@ -9,11 +12,12 @@
 
 ## 丨使用方法
 
-* 下载上方的 CnLoL.exe 文件。
+* 下载 [CnLoL.exe](https://github.com/Koiii367/LOL/releases/download/CnLoL/CnLoL.exe) 文件。
 * 运行后按照提示进行操作。
 
 ## 丨注意事项
 
 * 如果修改失败，请以管理员身份运行以避免权限问题。
-* 如果无法运行，请在上方报告Issues或联系我：<a href="mailto:zxg2003@foxmail.com">Email</a>。
 * 如提示Windows已保护你的电脑，请点击更多信息-仍要运行。
+* 如无法运行，请报告 [Issues](https://github.com/Koiii367/LOL/issues) 或联系我：[zxg2003@foxmail.com](mailto:zxg2003@foxmail.com)。
+
