@@ -21,3 +21,6 @@
 * 如提示Windows已保护你的电脑，请点击更多信息-仍要运行。
 * 如无法运行，请报告 [Issues](https://github.com/Koiii367/LOL/issues) 或联系我：[zxg2003@foxmail.com](mailto:zxg2003@foxmail.com)。
 
+* ## 丨更新
+* 删除了烦人的运行自动跳转网页
+
