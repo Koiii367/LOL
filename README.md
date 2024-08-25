@@ -1,7 +1,7 @@
 <h1 align="center">欢迎使用 CnLoL 英雄联盟汉化工具
 <br><br>
 
-[![Downloads](https://img.shields.io/github/downloads/Koiii367/LOL/total)](https://github.com/Koiii367/LOL/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Koiii367/LOL/total)](https://github.com/Koiii367/LOL/releases/)
 
 </h1>
 <h2 align="center">✨如果工具对你有帮助，请点亮Star予以支持✨</h2>
