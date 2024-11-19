@@ -22,5 +22,8 @@
 * 如无法运行，请报告 [Issues](https://github.com/Koiii367/LOL/issues) 或联系我：[zxg2003@foxmail.com](mailto:zxg2003@foxmail.com)。
 
 ## 丨更新
-* 删除了烦人的运行自动跳转网页
+* 删除了运行自动跳转主页
+* 修改了软件的用户交互方式
+
+
 
