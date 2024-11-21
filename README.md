@@ -1,7 +1,7 @@
 <h1 align="center"> ✨英雄联盟简体中文汉化工具✨
 <br><br>
   
-  ![image](https://github.com/Koiii367/LOL/blob/main/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%20(1).png)  
+  ![image](https://github.com/Koiii367/LOL/blob/main/LoL.png)  
 
 [点此下载](https://github.com/Koiii367/LOL/releases/download/CnLoL/CnLoL.exe)
 
