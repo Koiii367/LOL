@@ -26,8 +26,6 @@
 ## 丨更新
 * 1.删除了运行自动跳转Github主页
 * 2.修改了软件的用户交互方式
-
- <br>
 <h2 align="center"> </h2>
 <br><br>
 <h2 align="center">✨如果工具对你有帮助 请点亮Star予以支持✨
